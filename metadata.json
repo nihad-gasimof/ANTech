@@ -1,0 +1,6 @@
+{
+  "name": "AN Tech Solutions",
+  "description": "Baku-based premium IT solutions provider specializing in Web Development, Mobile Apps, and Custom CRM/ERP. Features a Gemini-powered AI IT Advisor, dynamic quotation engine, and lead management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
