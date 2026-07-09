@@ -48,7 +48,7 @@ export default function Navbar({
           className="flex cursor-pointer items-center space-x-2.5 transition-transform active:scale-95"
         >
           <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-blue-600 text-white shadow-md shadow-blue-200">
-<img src="/path/to/logo.png" alt="AN Tech Logo" className="h-full w-full object-contain" />
+<img src="/assets/high_definition_hd_instagram_profile_picture_version_of_the_network_nodes_logo.png" alt="AN Tech Logo" className="h-full w-full object-contain" />
           </div>
           <div>
             <span className="font-sans text-lg font-bold tracking-tight text-gray-950">
