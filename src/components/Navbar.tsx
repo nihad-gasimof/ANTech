@@ -48,7 +48,7 @@ export default function Navbar({
           className="flex cursor-pointer items-center space-x-2.5 transition-transform active:scale-95"
         >
           <div className="flex h-14 w-14 items-center justify-center rounded-xl  text-white shadow-md shadow-blue-400">
-            <img src="/assets/high_definition_hd_instagram_profile_picture_version_of_the_network_nodes_logo.png" alt="Logo" className="h-full w-full rounded-xl" />
+            <img src="/assets/logo.png" alt="Logo" className="h-full w-full rounded-xl object-contain p-1`" />
           </div>
           <div>
             <span className="font-sans text-lg font-bold tracking-tight text-gray-950">
