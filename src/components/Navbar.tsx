@@ -47,8 +47,8 @@ export default function Navbar({
           onClick={() => setActiveTab("home")}
           className="flex cursor-pointer items-center space-x-2.5 transition-transform active:scale-95"
         >
-          <div className="flex h-14 w-14 items-center justify-center rounded-xl  text-white shadow-md shadow-blue-400">
-            <img src="/assets/logo.png" alt="Logo" className="h-full w-full rounded-xl object-contain p-1`" />
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl  text-white shadow-md shadow-blue-200">
+            <Globe className="h-6 w-6 text-blue-600" />
           </div>
           <div>
             <span className="font-sans text-lg font-bold tracking-tight text-gray-950">
